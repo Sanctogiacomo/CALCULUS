@@ -1,0 +1,11 @@
+C:\Users\khelechy\Documents\GitHub\CALCULUS\squareroot\bin\Debug\netcoreapp2.2\squareroot.deps.json
+C:\Users\khelechy\Documents\GitHub\CALCULUS\squareroot\bin\Debug\netcoreapp2.2\squareroot.runtimeconfig.json
+C:\Users\khelechy\Documents\GitHub\CALCULUS\squareroot\bin\Debug\netcoreapp2.2\squareroot.runtimeconfig.dev.json
+C:\Users\khelechy\Documents\GitHub\CALCULUS\squareroot\bin\Debug\netcoreapp2.2\squareroot.dll
+C:\Users\khelechy\Documents\GitHub\CALCULUS\squareroot\bin\Debug\netcoreapp2.2\squareroot.pdb
+C:\Users\khelechy\Documents\GitHub\CALCULUS\squareroot\obj\Debug\netcoreapp2.2\squareroot.csprojAssemblyReference.cache
+C:\Users\khelechy\Documents\GitHub\CALCULUS\squareroot\obj\Debug\netcoreapp2.2\squareroot.csproj.CoreCompileInputs.cache
+C:\Users\khelechy\Documents\GitHub\CALCULUS\squareroot\obj\Debug\netcoreapp2.2\squareroot.AssemblyInfoInputs.cache
+C:\Users\khelechy\Documents\GitHub\CALCULUS\squareroot\obj\Debug\netcoreapp2.2\squareroot.AssemblyInfo.cs
+C:\Users\khelechy\Documents\GitHub\CALCULUS\squareroot\obj\Debug\netcoreapp2.2\squareroot.dll
+C:\Users\khelechy\Documents\GitHub\CALCULUS\squareroot\obj\Debug\netcoreapp2.2\squareroot.pdb
